@@ -25,8 +25,8 @@ The project uses two CSV datasets containing English Premier League match statis
 
 | Dataset | Season |
 |---|---|
-| E0.csv | 2024/25 |
-| E0 (1).csv | 2025/26 |
+|EPL_2024_2025.csv | 2024/25 |
+|EPL_2025_2026.csv | 2025/26 |
 
 ### Dataset Details
 
